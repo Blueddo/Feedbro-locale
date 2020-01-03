@@ -2,11 +2,11 @@
     "meta": {
         "manifest_version": 1,
         "locale_version": "1.0",
-        "locale_name": "English",
-        "locale_type": "en_US",
-        "locale_last_updated": "2019-10-18 12:00:00 UTC",
-        "locale_author_name": "Nodetics",
-        "locale_author_email": "nodetics@gmail.com",
+        "locale_name": "Greek",
+        "locale_type": "el_GR",
+        "locale_last_updated": "2020-1-3 12:00:00 UTC",
+        "locale_author_name": "Blueddo",
+        "locale_author_email": "blueddo@gmail.com",
         "locale_source_url": "https://nodetics.com/feedbro/"
     },
     "addfeed_url_body": "URL ροής",
