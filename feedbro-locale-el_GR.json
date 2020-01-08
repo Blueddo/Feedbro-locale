@@ -328,7 +328,7 @@
     "options_disableautoselect_title": "If this is true, the first feed article isn't automatically selected in view mode 3 or 6",
     "options_refreshlist_body": "Refresh article list when opening Reader view",
     "options_refreshlist_input_title": "If checked, Feedbro will automatically reload the list of articles when Feedbro reading view is opened",
-    "options_allitems_body": "Άνοιγμα "Ολα τα Στοιχεία" στην έναρξη",
+    "options_allitems_body": "Ανοιγμα 'Ολα τα Στοιχεία' στην έναρξη",
     "options_allitems_input_title": "Αν επιλεγεί, το Feedbro θα ανοίξει αυτόματα 'Ολα τα Στοιχεία' κατά την εκκίνηση",
     "options_sound_body": "Ηχος",
     "options_sound_input_title": "If checked, sound effects are enabled.",
