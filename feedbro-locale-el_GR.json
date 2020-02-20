@@ -243,7 +243,7 @@
     "options_action_update_locale_body": "Ενημέρωση Αρχείου Γλώσσας",
     "options_action_locale_update_failed": "Η Ενημέρωση του αρχείου γλώσσας απέτυχε! Σφάλμα: {1}",
     "options_action_locale_update_success": "Ενημέρωση του αρχείου γλώσσας επιτυχής!",
-    "options_action_template_locale_body": "Αποθήκευση προτύπου αρχείου γλώσσας",
+    "options_action_template_locale_body": "Αποθήκευση προτύπου γλώσσας",
     "options_action_template_locale_title": "Χρησιμοποιήστε αυτό το πρότυπο για να μεταφράσετε το Feedbro σε άλλη γλώσσα.",
     "options_extensionclick_body": "Κάντε κλικ στο εικονίδιο της επέκτασης Feedbro",
     "options_extensionclick_select_title": "Καθορίζει τι συμβαίνει όταν πατηθεί το εικονίδιο επέκτασης Feedbro",
