@@ -240,7 +240,7 @@
     "options_locale_url": "Διεύθυνση URL του αρχείου γλώσσας Feedbro (αρχείο JSON)",
     "options_action_locale_failed": "Η Εισαγωγή αρχείου γλώσσας απέτυχε! Σφάλμα:{1}",
     "options_action_locale_success": "Εισαγωγή αρχείου γλώσσας επιτυχής!",
-    "options_action_update_locale_body": "Ενημέρωση Αρχείου Γλώσσας",
+    "options_action_update_locale_body": "Ενημέρωση Γλώσσας",
     "options_action_locale_update_failed": "Η Ενημέρωση του αρχείου γλώσσας απέτυχε! Σφάλμα: {1}",
     "options_action_locale_update_success": "Ενημέρωση του αρχείου γλώσσας επιτυχής!",
     "options_action_template_locale_body": "Αποθήκευση προτύπου γλώσσας",
