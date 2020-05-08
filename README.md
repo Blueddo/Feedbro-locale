@@ -1,4 +1,3 @@
-feedbro-locale
 Feedbro RSS Greek language
 
 You can download Feedbro at: https://nodetics.com/feedbro/
