@@ -9,3 +9,5 @@ Feedbro: Option / Settings Page -> User interface language -> Import locale
 https://raw.githubusercontent.com/Blueddo/Feedbro-locale/master/feedbro-locale-el_GR.json
 
 Select Greek (el_GR)
+
+In the future, use the "Update" button in the application settings to receive updates.
