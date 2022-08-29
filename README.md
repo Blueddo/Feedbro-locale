@@ -1,6 +1,6 @@
 # Greek language for [Feedbro](https://nodetics.com/feedbro/ "Go to Feedbro Project homepage")
 
-You can download ***[Feedbro](https://nodetics.com/feedbro/
+***You can download [Feedbro](https://nodetics.com/feedbro/ *
 
 Click in the icon of [Feedbro](https://nodetics.com/feedbro/ go Options at Settings -> User interface language -> Import locale -> URL address of the Feedbro Locale (JSON-file): 
 paste the following link:
