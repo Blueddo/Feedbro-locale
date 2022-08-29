@@ -1,4 +1,4 @@
-#[Feedbro](https://nodetics.com/feedbro/ RSS Greek language
+# Greek language for [Feedbro](https://nodetics.com/feedbro/ "Go to Feedbro Project homepage")
 
 You can download [Feedbro](https://nodetics.com/feedbro/ at: https://nodetics.com/feedbro/
 
