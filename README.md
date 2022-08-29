@@ -1,13 +1,13 @@
-Feedbro RSS Greek language
+#[Feedbro](https://nodetics.com/feedbro/ RSS Greek language
 
-You can download Feedbro at: https://nodetics.com/feedbro/
+You can download [Feedbro](https://nodetics.com/feedbro/ at: https://nodetics.com/feedbro/
 
-Enter the following link in the Feedbro settings to switch the user interface to Greek
-
-Feedbro: Option / Settings Page -> User interface language -> Import locale
+Click in the icon of [Feedbro](https://addons.mozilla.org/el/firefox/addon/feedbroreader/ go Options at Settings -> User interface language -> Import locale -> URL address of the Feedbro Locale (JSON-file): 
+paste the following link:
 
 https://raw.githubusercontent.com/Blueddo/Feedbro-locale/master/feedbro-locale-el_GR.json
 
+go the button in the "English (en_US) (default)"
 Select Greek (el_GR)
 
-In the future, use the "Update" button in the application settings to receive updates.
+In the future, use the "Update Locale" button in the application settings to receive updates.
