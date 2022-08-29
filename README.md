@@ -2,7 +2,7 @@
 
 You can download Feedbro at: https://nodetics.com/feedbro/
 
-Click in the icon of Feedbro go Options at Settings -> User interface language -> Import locale -> URL address of the Feedbro Locale (JSON-file): 
+Click in the icon of Feedbro go Options / Settings -> User interface language -> Import locale -> URL address of the Feedbro Locale (JSON-file): 
 paste the following link:
 
 https://raw.githubusercontent.com/Blueddo/Feedbro-locale/master/feedbro-locale-el_GR.json
