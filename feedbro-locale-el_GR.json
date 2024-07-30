@@ -431,7 +431,7 @@
     "ruleform_condition_containswords_title": "Χωριστές λέξεις με ένα κόμμα χωρίς κενά - παράδειγμα: foo,bar,xyz",
     "ruleform_condition_doesnotcontainwords_body": "δεν περιέχει λέξεις",
     "ruleform_condition_doesnotcontainwords_title": "Χωριστές λέξεις με ένα κόμμα χωρίς κενά - παράδειγμα: foo,bar,xyz",
-    "ruleform_condition_containsanywords_body": "περιέχει όλες τις λέξεις",
+    "ruleform_condition_containsanywords_body": "περιέχει οποιαδήποτε από τις λέξεις",
     "ruleform_condition_containsanywords_title": "Διαχωρίστε τις λέξεις με κόμμα χωρίς κενά - παράδειγμα: foo,bar,xyz",
     "ruleform_condition_containsanywordsthatstartwith_body": "περιέχει οποιεσδήποτε λέξεις που αρχίζουν με",
     "ruleform_condition_containsanywordsthatstartwith_title": "Διαχωρίστε τα προθέματα με κόμμα χωρίς κενά - παράδειγμα: foo,bar,xyz",
