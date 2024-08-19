@@ -358,7 +358,7 @@
     "options_error_bookmarks_invalidfile": "{1} δεν είναι αρχείο σελιδοδεικτών Firefox HTML!",
     "options_error_invalidopml": "Αποτυχία εισαγωγής! Αρχείο {1} Δεν είναι ένα έγκυρο αρχείο OPML.",
     "options_action_opmlimport_failed": "Η εισαγωγή του OPML απέτυχε! Σφάλμα: {1}",
-    "options_action_opmlimport_success": "Εγινε! Εισαγωγή {1} ροών και {2} φακέλους. Παραλείφθηκαν {3} ροές και {4} φακέλους.",
+    "options_action_opmlimport_success": "Εγινε! Εισαγωγή {1} ροών και {2} φακέλων. Παραλείφθηκαν {3} ροές και {4} φάκελοι.",
     "options_action_rulesimport_success": "Η Κανόνες εισήχθησαν με επιτυχία!",
     "options_action_rulesimport_failed": "Εισαγωγή κανόνων απέτυχε! Σφάλμα: {1}",
     "options_action_delete_feedsandfolders": "Είστε βέβαιοι ότι θέλετε να καταργήσετε όλες τις εγγραφές και τις αποθηκευμένες καταχωρίσεις ροών;",
